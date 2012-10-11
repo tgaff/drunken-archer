@@ -1,3 +1,18 @@
+Hi, this sample app is prepared to give you a chance to fix a few quick bugs. 
+The tests here were all working, prior to a change I made: I switched capybara to using selenium.  
+Unfortunately that broke a lot of things.  Please help me fix them!   (and not by reverting my change ^_^ )
+
+To get you started please run: 
+  cucumber -r features features/visitors/request_invitation.feature -l 18
+
+If you don't want to work on that one, check out any of the other broken tests.
+  cucumber
+
+Or maybe write a test to check some of the links on the home page. (google, yahoo, bing...)
+
+Thanks!
+
+
 Rails Prelaunch Signup
 ========================
 
