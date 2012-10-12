@@ -13,22 +13,10 @@ Or maybe write a test to check some of the links on the home page. (google, yaho
 Thanks!
 
 
-Rails Prelaunch Signup
-========================
 
-This application was generated with the rails_apps_composer gem:
-https://github.com/RailsApps/rails_apps_composer
-provided by the RailsApps Project:
-http://railsapps.github.com/
 
-________________________
 
-Recipes:
-["controllers", "core", "email", "extras", "frontend", "gems", "git", "init", "models", "prelaunch", "railsapps", "readme", "routes", "setup", "testing", "views"]
 
-Preferences:
-{:railsapps=>"rails-prelaunch-signup", :git=>true, :database=>"sqlite", :unit_test=>"rspec", :integration=>"cucumber", :fixtures=>"factory_girl", :frontend=>"bootstrap", :bootstrap=>"sass", :email=>"mandrill", :authentication=>"devise", :devise_modules=>"confirmable", :authorization=>"cancan", :starter_app=>"admin_app", :form_builder=>"simple_form", :prelaunch_branch=>"master", :main_branch=>"none", :dev_webserver=>"webrick", :templates=>"erb"}
-
-________________________
 
 License
+ - Do with it as you please.
